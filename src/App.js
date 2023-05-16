@@ -3,12 +3,9 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello CodeSandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
-      <h2>Some Codes are Better Be Deployed!</h2>
-      <code>Programming is funny</code>
-      <p>Fine ~ I make myself</p>
-      <small>ပြောင်းလဲတတ်တဲ့ မင်းကို တို့ဘယ်လိုမှ နားမလည် </small>
+      <h1>Hello React App</h1>
+      <p>Some Codes Are Better Be Deployed</p>
+      <img src='https://images.unsplash.com/photo-1661956601030-fdfb9c7e9e2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=884&q=80' width='200px' />
     </div>
   );
 }
